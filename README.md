@@ -1,5 +1,4 @@
 
-
 <!--
 **Kaushik29112002/Kaushik29112002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Kaushik</h1>
+<h1 align="center">Hi 👋, I'm Kaushik Kidecha</h1>
 <h3 align="center">Application developer</h3>
 
 - 🔭 I’m currently working on **Flutter Development**
